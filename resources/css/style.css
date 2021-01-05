@@ -248,7 +248,7 @@ header {
 /*-----------------------------------*/ 
 
 .section-steps{
-    background-color: #ffffff;
+    background-color: #f3f3f3;
 }
 
 .steps-box:first-child {
@@ -293,3 +293,8 @@ header {
     width: auto;
     margin-right: 10px;
 }
+
+/*-----------------------------------*/
+/* CURRENT CITIES */
+/*-----------------------------------*/
+
