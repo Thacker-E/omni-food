@@ -381,3 +381,60 @@ cite img {
     margin-right: 10px;
     vertical-align: middle;
 }
+/*-----------------------------------*/
+/* PLAN SECTION */
+/*-----------------------------------*/
+.plans {
+    background-color: #f3f3f3;
+}
+
+.plan-box {
+    background-color: #fff;
+    border-radius: 7px;
+    width: 90%;
+    margin-left: 5%;
+    box-shadow: 0px 2px 10px 1px #ebebeb;
+}
+
+.plan-box div {
+    padding: 15px;
+    border-bottom: 1px solid #f3f3f3;
+}
+
+.plan-box ul {
+    list-style: none;
+}
+
+.plan-box ul li {
+    padding:5px 0;
+}
+
+.plan-box div:first-child {
+    
+}
+
+.plan-box div:last-child {
+    text-align: center;
+    border: none;
+}
+
+.plan-price {
+    color: #e67e22;
+    font-size: 200%;
+    font-weight: 100;
+    margin-bottom: 10px;
+}
+
+.plan-price span {
+    color: #555555;
+    font-size: 50%;
+    font-weight: 300;
+}
+
+.plan-per-meal {
+font-size: 80%;
+}
+
+/*-----------------------------------*/
+/* FORM SECTION */
+/*-----------------------------------*/
