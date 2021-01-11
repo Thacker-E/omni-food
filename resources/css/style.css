@@ -7,13 +7,15 @@
     box-sizing: border-box;
 }
 
-html {
+html,
+body {
     background-color: #ffffff;
     color: #555555;
     font-family: 'Lato', sans-serif;
     font-weight: 300px;
     font-size: 20px;
     text-rendering: optimizeLegibility;
+    overflow-x: hidden;
 }
 
 .clearfix {zoom:1}
@@ -514,10 +516,6 @@ footer {
     color: rgb(255, 255, 255);
 }
 
-.social-links li a:link,
-.social-links li a:visited {
-}
-
 .ion-social-facebook:hover {
     color: #3b5998;
     transition: color .2s;
@@ -544,5 +542,4 @@ footer {
     text-align: center;    
     font-size: 16px;
 }
-    
     
